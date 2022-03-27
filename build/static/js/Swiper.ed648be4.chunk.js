@@ -1,2 +1,0 @@
-(this.webpackJsonpxf=this.webpackJsonpxf||[]).push([[5],{192:function(e,t,n){"use strict";n.r(t);var a=n(14),c=n(15),r=n(17),i=n(16),s=n(0),u=n.n(s),p=(n(18),n(1)),o=function(e){Object(r.a)(n,e);var t=Object(i.a)(n);function n(){return Object(a.a)(this,n),t.apply(this,arguments)}return Object(c.a)(n,[{key:"render",value:function(){return Object(p.jsx)("div",{className:"",children:"Swiper"})}}]),n}(u.a.Component);t.default=o}}]);
-//# sourceMappingURL=Swiper.ed648be4.chunk.js.map

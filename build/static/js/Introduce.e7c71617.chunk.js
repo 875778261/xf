@@ -1,2 +1,0 @@
-(this.webpackJsonpxf=this.webpackJsonpxf||[]).push([[2],{189:function(e,t,n){"use strict";n.r(t);var c=n(14),r=n(15),s=n(17),a=n(16),i=n(0),o=n.n(i),u=n(1),p=function(e){Object(s.a)(n,e);var t=Object(a.a)(n);function n(){return Object(c.a)(this,n),t.apply(this,arguments)}return Object(r.a)(n,[{key:"render",value:function(){return console.log(this.props),Object(u.jsx)("div",{className:"",children:Object(u.jsx)("h1",{children:"Introduce"})})}}]),n}(o.a.Component);t.default=p}}]);
-//# sourceMappingURL=Introduce.e7c71617.chunk.js.map

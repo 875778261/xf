@@ -1,2 +1,0 @@
-(this.webpackJsonpxf=this.webpackJsonpxf||[]).push([[4],{187:function(t,e,n){"use strict";n.r(e);var a=n(14),c=n(15),r=n(17),s=n(16),i=n(0),u=n.n(i),o=n(1),p=function(t){Object(r.a)(n,t);var e=Object(s.a)(n);function n(){return Object(a.a)(this,n),e.apply(this,arguments)}return Object(c.a)(n,[{key:"render",value:function(){return Object(o.jsx)("div",{className:"",children:"\u767b\u5f55\u7ec4\u4ef6"})}}]),n}(u.a.Component);e.default=p}}]);
-//# sourceMappingURL=Login.abe60faf.chunk.js.map
