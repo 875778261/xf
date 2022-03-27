@@ -1,0 +1,13 @@
+.my_layout_box{
+    height: 100vh;
+}
+.my_sider_box h1{
+    color: white;
+}
+.my_header_box h1{
+    color: white;
+}
+.content_box h1{
+    padding: 80px;
+    color: rosybrown;
+}
