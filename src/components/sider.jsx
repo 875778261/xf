@@ -28,7 +28,7 @@ class Sider1 extends React.Component {
             collapsed={collapsed}
 
         >
-            <h1>这是导航头部</h1>
+            <h1>导航头</h1>
             <Nav11></Nav11>
         </Sider>
     }
